@@ -1,4 +1,7 @@
 <h1>CEO Turnover Index</h1>
+
+![Capture](https://github.com/AsafRubin00/CEO-Turnover-Index/assets/115939423/74b01d87-ed97-4f49-b30d-3916a74777e3)
+
 <p>
   I have spent over four years in the Executive Search industry with a focus on executive leadership. More specifically on Chief Executive Officers (or, CEOs). 
 
